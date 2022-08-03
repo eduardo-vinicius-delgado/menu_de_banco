@@ -1,2 +1,7 @@
 # menu_de_banco
- Prática com estudo de escolhas com um menu deopções para um banco.
+
+Level: Easy
+
+**Apresentação de um menu de banco com escolhas e ações relacionadas a essas escolhas**
+
+Exercício para prática de estrutura de escolhas do tipo switch case, ambientado em projeto de escolhas de saldo, saque, depósito e tarifas em um menu de banco.
